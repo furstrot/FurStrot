@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### <img src="https://api.iconify.design/tabler/flask.svg?color=%238FBF9F" width="20" height="20" align="center"><span style="color: #B0EDC7;"> Technologies
+### <img src="https://api.iconify.design/tabler/flask.svg?color=%238FBF9F" width="20" height="20" align="center"><span style="color: #B0EDC7;"> *Technologies*
 
 ---
 ![macOS](https://img.shields.io/badge/MACOS-0D1117?style=for-the-badge&logo=apple&logoColor=8FBF9F&labelColor=0D1117)
@@ -49,7 +49,7 @@ Currently, I'm focused on developing my skills in programming, web development, 
 
 <div align="left">
 
-### <img src="https://api.iconify.design/tabler/code.svg?color=%23B0EDC7" width="24" height="23" align="center"> <span style="color: #B0EDC7;">Languages</span>
+### <img src="https://api.iconify.design/tabler/code.svg?color=%23B0EDC7" width="24" height="23" align="center"> <span style="color: #B0EDC7;">*Languages*</span>
 </div>
 
 ---
@@ -88,7 +88,7 @@ Currently, I'm focused on developing my skills in programming, web development, 
 
 
 
-### <img src="https://api.iconify.design/tabler/star.svg?color=%238FBF9F" width="24" height="23"> <span style="color: #B0EDC7;">Hobbies & Goals</span>
+### <img src="https://api.iconify.design/tabler/star.svg?color=%238FBF9F" width="24" height="23"> <span style="color: #B0EDC7;">*Hobbies & Goals*</span>
 
 ---
 <div align="left"><em>"The world is full of interesting things." <span style="color: #B0EDC7;">Agnes Tachyon</span></em></div>
