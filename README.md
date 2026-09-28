@@ -88,12 +88,14 @@ Currently, I'm focused on developing my skills in programming, web development, 
 
 
 
-### <img src="https://api.iconify.design/tabler/star.svg?color=%238FBF9F" width="24" height="23" align="center"/> <span style="color: #B0EDC7;">Hobbies & Goals</span>
+### <img src="https://api.iconify.design/tabler/star.svg?color=%238FBF9F" width="24" height="23"> <span style="color: #B0EDC7;">Hobbies & Goals</span>
 
 ---
-<div>*"The world is full of interesting things." <span style="color: #B0EDC7;" align="center">Agnes Tachyon</span>*</div>
-<div>
-<div style="display: inline-block; vertical-align: middle; width: 67%;">
+<div align="left"><em>"The world is full of interesting things." <span style="color: #B0EDC7;">Agnes Tachyon</span></em></div>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="middle" width="70%">
 
 <table>
 <tr>
@@ -120,8 +122,10 @@ Currently, I'm focused on developing my skills in programming, web development, 
 </tr>
 </table>
 
-</div><div style="display: inline-block; vertical-align: middle; width: 29%; margin-left: 20px;">
+</td>
+<td valign="middle" align="center" width="30%">
 <img src="assets/Agnes-3.png" width="140">
-</div>
-</div>
+</td>
+</tr>
+</table>
 
