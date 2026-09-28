@@ -1,58 +1,127 @@
-[![Header](https://github.com/FurStrot/FurStrot/blob/main/assets/header.jpg)](https://www.youtube.com/@FurStrot)
+<div align="center">
+<img src="assets/banner.png" width="100%">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=8FBF9F&labelColor=0D1117)](https://github.com/FurStrot)
+[![Discord](https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=8FBF9F&labelColor=0D1117)](https://discord.com/users/furstrot)
+[![Mail](https://img.shields.io/badge/MAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=8FBF9F&labelColor=0D1117)](mailto:furstrot@icloud.com)
+</div>
 
 <div align="center">
 
-## Hello👋 My name Strot!
+### <img src="https://api.iconify.design/tabler/flask.svg?color=%238FBF9F" width="20" height="20" align="center"><span style="color: #B0EDC7;"> Technologies
 
-##### ⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 26.48 %
-
-## About me
-
-##### I strive for interesting solutions for automating work processes using programming. I know programming languages: Python, HTML5 and CSS3.At the moment, I'm focusing on developing bots.I also have experience working with Adobe, which allows me to create an attractive interface and improve the user experience.
-## Tools
-
-[![Pyhton](https://shields.microej.com/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=ffffff)](https://www.python.org)
-[![HTML5](https://shields.microej.com/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org/multipage/)
-[![CSS3](https://shields.microej.com/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=ffffff)](https://www.w3.org/TR/CSS/#css)
-[![GIT](https://shields.microej.com/badge/GIT-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com)
-[![ADOBE](https://shields.microej.com/badge/Adobe-000000?style=for-the-badge&logo=ADOBE&logoColor=ffffff)](https://www.adobe.com/us/#)
-
-## Follow Me
-[![YouTube](https://shields.microej.com/badge/YouTube-000000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@FurStrot)
-[![Telegram](https://shields.microej.com/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=ffffff)](https://t.me/FurStrot)
-
-## Languages
-
-[![English](https://shields.microej.com/badge/English-000000?style=for-the-badge&logo=🇺🇸)](https://en.wikipedia.org/wiki/English_language)
-[![Russia](https://shields.microej.com/badge/Russia-000000?style=for-the-badge&logo=ru)](https://ru.wikipedia.org/wiki/Русский_язык)
-
+---
+![macOS](https://img.shields.io/badge/MACOS-0D1117?style=for-the-badge&logo=apple&logoColor=8FBF9F&labelColor=0D1117)
+![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=8FBF9F&labelColor=0D1117)
+![Python](https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=8FBF9F&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=8FBF9F&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0D1117?style=for-the-badge&logo=typescript&logoColor=8FBF9F&labelColor=0D1117)
+![React](https://img.shields.io/badge/REACT-0D1117?style=for-the-badge&logo=react&logoColor=8FBF9F&labelColor=0D1117)
+![Next.js](https://img.shields.io/badge/NEXT.JS-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=8FBF9F&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/NODE.JS-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=8FBF9F&labelColor=0D1117)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=8FBF9F&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/DOCKER-0D1117?style=for-the-badge&logo=docker&logoColor=8FBF9F&labelColor=0D1117)
+![Figma](https://img.shields.io/badge/FIGMA-0D1117?style=for-the-badge&logo=figma&logoColor=8FBF9F&labelColor=0D1117)
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FurStrot&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <div align="center">
 
-
-## My favorite project
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurStrot&repo=911_Bot-Telegram-\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/FurStrot/911_Bot-Telegram-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurStrot&repo=Bot_Helper\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/FurStrot/Bot_Helper)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurStrot&repo=Bot_Censorship\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/FurStrot/Bot_Censorship)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurStrot&repo=Police-Helper\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/FurStrot/Police-Helper)
-
-ㅤ
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=FurStrot&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"/>
-</picture>
-
+![Contribution Graph](https://my-repository-fur-strot.vercel.app/graph?username=FurStrot&bg_color=0D1117&color=8FBF9F&line=8FBF9F&point=FFFFFF&area=true&area_color=8FBF9F&hide_border=true&custom_title=FurStrot%27s%20Contribution%20Graph)
 
 </div>
+
+## <span style="color: #B0EDC7;"><img src="https://api.iconify.design/tabler/user.svg?color=%238FBF9F" width="24" height="23"> *About me*</span>
+
+---
+<div style="max-width: 500px;">
+<img align="left" src="assets/Agnes-4.png" width="185" height="250" style="margin-right: 20px; object-fit: cover;">
+
+Hello! <span style="color: #8FBF9F;">**FurStrot**</span>, a software engineer passionate about technology, games, and Uma Musume. I enjoy building useful projects, exploring new tools and ideas, and learning something new every day.
+
+Currently, I'm focused on developing my skills in programming, web development, and game design. In my free time I love racing, anime, and of course - <span style="color: #8FBF9F;">**Agnes Tachyon**</span>.
+
+<br clear="left"/>
+</div>
+
+
+<div align="left">
+
+### <img src="https://api.iconify.design/tabler/code.svg?color=%23B0EDC7" width="24" height="23" align="center"> <span style="color: #B0EDC7;">Languages</span>
+</div>
+
+---
+
+<div style="max-width: 500px;" align="">
+  <img
+    align="right"
+    src="https://my-activity-gilt.vercel.app/api/top-langs?username=FurStrot&bg_color=0D1117&title_color=8FBF9F&text_color=E6E6E6&border_color=8FBF9F"
+    width="230"
+    height="240"
+    style="margin-left: 20px;"
+  />
+
+  <p>
+    <span style="color: #8FBF9F;"><strong>Python</strong></span> — my main language,
+    with 2 years of experience. Mostly focused on automation, bots and useful tools.
+  </p>
+
+  <p>
+    <span style="color: #8FBF9F;"><strong>QML</strong></span> — used for building
+    interfaces and applications with a focus on clean and interactive UI.
+  </p>
+
+  <p>
+    <span style="color: #8FBF9F;"><strong>JavaScript</strong></span> — used for
+    web development and adding interactivity to websites.
+  </p>
+
+  <p>
+    <span style="color: #8FBF9F;"><strong>HTML / CSS</strong></span> — building
+    and styling websites and user interfaces.
+  </p>
+
+  <br clear="right"/>
+</div>
+
+
+
+### <img src="https://api.iconify.design/tabler/star.svg?color=%238FBF9F" width="24" height="23" align="center"/> <span style="color: #B0EDC7;">Hobbies & Goals</span>
+
+---
+<div>*"The world is full of interesting things." <span style="color: #B0EDC7;" align="center">Agnes Tachyon</span>*</div>
+<div>
+<div style="display: inline-block; vertical-align: middle; width: 67%;">
+
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://api.iconify.design/tabler/device-laptop.svg?color=%238FBF9F" width="30" height="30"><br>
+<sub>Programming</sub>
+</td>
+<td align="center" width="90">
+<img src="https://api.iconify.design/tabler/device-gamepad-2.svg?color=%238FBF9F" width="30" height="30"><br>
+<sub>Gaming</sub>
+</td>
+<td align="center" width="90">
+<img src="https://api.iconify.design/tabler/book.svg?color=%238FBF9F" width="30" height="30"><br>
+<sub>Learning</sub>
+</td>
+<td align="center" width="90">
+<img src="https://api.iconify.design/tabler/chess-knight.svg?color=%238FBF9F" width="30" height="30"><br>
+<sub>Uma Musume</sub>
+</td>
+<td align="center" width="90">
+<img src="https://api.iconify.design/tabler/coffee.svg?color=%238FBF9F" width="30" height="30"><br>
+<sub>Tea</sub>
+</td>
+</tr>
+</table>
+
+</div><div style="display: inline-block; vertical-align: middle; width: 29%; margin-left: 20px;">
+<img src="assets/Agnes-3.png" width="140">
+</div>
+</div>
+
