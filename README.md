@@ -35,7 +35,7 @@
 
 ## <span style="color: #B0EDC7;"><img src="https://api.iconify.design/tabler/user.svg?color=%238FBF9F" width="24" height="23"> *About me*</span>
 
----
+
 <div style="max-width: 500px;">
 <img align="left" src="assets/Agnes-4.png" width="185" height="250" style="margin-right: 20px; object-fit: cover;">
 
